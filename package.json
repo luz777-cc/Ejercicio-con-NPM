@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-con-npm",
+  "version": "1.0.0",
+  "description": "Ejercicio para funcion de la administracion de paquetes NPM en el entorno Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luz777-cc/Ejercicio-con-NPM.git"
+  },
+  "author": "Luz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luz777-cc/Ejercicio-con-NPM/issues"
+  },
+  "homepage": "https://github.com/luz777-cc/Ejercicio-con-NPM#readme"
+}
